@@ -3,4 +3,5 @@
   <name>БуферО_БуферОбмена1С</name>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor.БуферО_ТестоваяОбработка</content>
 </mdclass:Subsystem>

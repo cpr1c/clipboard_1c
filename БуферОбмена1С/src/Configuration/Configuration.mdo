@@ -29,6 +29,7 @@
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.12</compatibilityMode>
   <subsystems>Subsystem.БуферО_БуферОбмена1С</subsystems>
-  <commonTemplates>CommonTemplate.КомпонентаДляРаботыСБуферомОбмена</commonTemplates>
-  <commonModules>CommonModule.БуферО_БуферОбменаКлиентСервер</commonModules>
+  <commonTemplates>CommonTemplate.БуферО_КомпонентаДляРаботыСБуферомОбмена</commonTemplates>
+  <commonModules>CommonModule.БуферО_БуферОбменаКлиент</commonModules>
+  <dataProcessors>DataProcessor.БуферО_ТестоваяОбработка</dataProcessors>
 </mdclass:Configuration>
