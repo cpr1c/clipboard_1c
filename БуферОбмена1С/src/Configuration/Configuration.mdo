@@ -28,6 +28,18 @@
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.12</compatibilityMode>
+  <languages uuid="fe28ecbc-974b-4e6b-9356-c56a7be7ed57">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
   <subsystems>Subsystem.БуферО_БуферОбмена1С</subsystems>
   <commonTemplates>CommonTemplate.БуферО_КомпонентаДляРаботыСБуферомОбмена</commonTemplates>
   <commonModules>CommonModule.БуферО_БуферОбменаКлиент</commonModules>

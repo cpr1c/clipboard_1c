@@ -5,6 +5,10 @@
     <managerType typeId="c8913def-72f8-424e-8c2a-a6455a71b902" valueTypeId="dc950c8a-821d-4190-bf48-b8a83a1d7dd1"/>
   </producedTypes>
   <name>БуферО_ТестоваяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестовая обработка</value>
+  </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.БуферО_ТестоваяОбработка.Form.Форма</defaultForm>
   <forms uuid="5db25ec9-80aa-4314-8cc8-648b68fb8a42">

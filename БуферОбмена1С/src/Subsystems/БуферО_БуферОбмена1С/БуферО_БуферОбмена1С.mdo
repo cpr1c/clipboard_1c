@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f4080b65-5cf1-47d9-8aeb-4ef2912f0759">
   <name>БуферО_БуферОбмена1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Буфер обмена 1С</value>
+  </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.БуферО_ТестоваяОбработка</content>
