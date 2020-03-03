@@ -8,12 +8,7 @@
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
-    <usePurposes>Checked</usePurposes>
-    <commandInterface>Extended</commandInterface>
-    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
-    <modalityUseMode>Checked</modalityUseMode>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
-    <compatibilityMode>Checked</compatibilityMode>
     <defaultStyle>Extended</defaultStyle>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="849b8102-c049-41c4-bc84-c3ca80923dd6"/>
@@ -22,7 +17,7 @@
   <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="79bceebd-f257-41d0-9638-de4767850592"/>
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="31380d66-5ad2-4f24-a4e5-eb9e4c502437"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="57e58133-1064-48ce-b5bb-6670e1dc02e0"/>
-  <namePrefix>Расш1_</namePrefix>
+  <namePrefix>БуферО_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
@@ -33,4 +28,7 @@
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.12</compatibilityMode>
+  <subsystems>Subsystem.БуферО_БуферОбмена1С</subsystems>
+  <commonTemplates>CommonTemplate.КомпонентаДляРаботыСБуферомОбмена</commonTemplates>
+  <commonModules>CommonModule.БуферО_БуферОбменаКлиентСервер</commonModules>
 </mdclass:Configuration>
